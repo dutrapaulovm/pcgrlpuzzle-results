@@ -1,4 +1,5 @@
-Dungeon,MazeCoinLowMaps,Zelda,Agent
-1000,999,375,S
-1000,999,292,H
-974,941,394,HQ
+Dungeon,MazeCoinLowMaps,Zelda,ZeldaLowMaps,Agent
+1000,999,375,448,S
+1000,999,292,695,H
+974,941,394,413,HQ
+999,186,229,191,HQEX

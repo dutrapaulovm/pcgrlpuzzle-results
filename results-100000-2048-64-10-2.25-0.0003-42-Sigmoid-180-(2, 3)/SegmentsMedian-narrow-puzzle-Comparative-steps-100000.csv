@@ -1,4 +1,5 @@
-Dungeon,MazeCoinLowMaps,Zelda,Agent
-17.0,23.0,155.0,S
-17.0,27.0,174.0,H
-18.0,28.0,99.0,HQ
+Dungeon,MazeCoinLowMaps,Zelda,ZeldaLowMaps,Agent
+17.0,23.0,155.0,38.0,S
+17.0,27.0,174.0,52.0,H
+18.0,28.0,99.0,66.0,HQ
+18.0,28.0,167.0,80.0,HQEX

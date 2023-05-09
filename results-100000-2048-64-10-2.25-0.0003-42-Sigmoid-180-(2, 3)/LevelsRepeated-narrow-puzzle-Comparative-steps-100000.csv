@@ -1,4 +1,5 @@
-Dungeon,MazeCoinLowMaps,Zelda,Agent
-"7,80","1,60","0,00",S
-"0,00","0,00","0,00",H
-"0,00","0,00","0,00",HQ
+Dungeon,MazeCoinLowMaps,Zelda,ZeldaLowMaps,Agent
+"7,80","1,60","0,00","0,70",S
+"0,00","0,00","0,00","0,00",H
+"0,00","0,00","0,00","0,00",HQ
+"0,00","0,00","0,00","0,00",HQEX
